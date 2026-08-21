@@ -63,5 +63,5 @@ Esse projeto foi feito como uma forma de praticar JavaScript no navegador, princ
 
 ## 🔗 Projetos
 
-[Ver outros projetos em JavaScript](https://ocarlostokarski.github.io/Projetos_js/)
+[Ver outros projetos em JavaScript](https://github.com/oCarlosTokarski/Projetos_js)
   
